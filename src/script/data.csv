@@ -1,0 +1,230 @@
+Location,Cases,Deaths,Recov.
+"United States","5,386,812","170,348","2,708,977"
+Brazil,"3,275,520","106,523","2,384,302"
+India,"2,526,192","49,036","1,808,936"
+Russia,"917,884","15,617","729,411"
+"South Africa","579,140","11,556","461,734"
+Peru,"516,296","25,856","354,232"
+Mexico,"511,369","55,908","345,653"
+Colombia,"445,111","14,492","261,296"
+Chile,"382,111","10,340","355,037"
+Spain,"342,813","28,617","150,376"
+Iran,"338,825","19,331","293,811"
+"United Kingdom","316,367","41,358","No data"
+"Saudi Arabia","295,902","3,338","262,959"
+Pakistan,"288,041","6,162","265,624"
+Argentina,"276,059","5,362","192,421"
+Bangladesh,"271,881","3,591","156,623"
+Italy,"252,809","35,234","203,326"
+Turkey,"246,861","5,934","228,980"
+Germany,"223,774","9,289","200,164"
+France,"212,211","30,406","83,848"
+Iraq,"168,290","5,709","120,129"
+Philippines,"157,918","2,600","72,209"
+Indonesia,"137,468","6,071","91,321"
+Canada,"121,568","9,020","107,910"
+Qatar,"114,532",190,"111,258"
+Kazakhstan,"101,848","1,269","78,633"
+Ecuador,"99,409","6,030","79,176"
+Bolivia,"96,459","3,884","33,720"
+Egypt,"96,220","5,124","57,858"
+Israel,"91,080",665,"66,965"
+Ukraine,"89,719","2,044","47,430"
+China,"84,808","4,634","79,519"
+Sweden,"84,294","5,783","No data"
+"Dominican Republic","83,134","1,393","47,946"
+Oman,"82,743",557,"77,427"
+Panama,"79,402","1,734","52,886"
+Belgium,"76,191","9,916","18,618"
+Kuwait,"75,185",494,"66,740"
+Belarus,"69,308",603,"66,452"
+Romania,"68,046","2,904","31,920"
+"United Arab Emirates","63,819",359,"57,473"
+Guatemala,"60,824","2,296","48,305"
+Netherlands,"61,840","6,167","No data"
+Singapore,"55,497",27,"50,736"
+Poland,"54,487","1,844","37,150"
+Portugal,"53,783","1,772","39,374"
+Japan,"52,217","1,073","37,479"
+Honduras,"49,467","1,548","7,118"
+Nigeria,"48,116",966,"34,309"
+Bahrain,"45,264",167,"41,836"
+Ghana,"41,847",223,"39,718"
+Kyrgyzstan,"41,373","1,491","33,622"
+Armenia,"41,299",814,"34,164"
+Morocco,"37,935",584,"26,687"
+Afghanistan,"37,503","1,368","26,925"
+Switzerland,"37,671","1,716","32,800"
+Algeria,"37,664","1,351","26,308"
+Azerbaijan,"34,018",504,"31,490"
+Uzbekistan,"34,017",221,"28,661"
+Venezuela,"30,369",259,"21,385"
+Moldova,"29,483",884,"20,556"
+Kenya,"29,334",465,"15,298"
+Serbia,"29,233",665,"22,299"
+Ireland,"26,995","1,774","24,000"
+"Costa Rica","26,931",281,"8,785"
+Ethiopia,"26,204",479,"11,428"
+Nepal,"25,551",99,"17,077"
+Austria,"23,179",728,"20,627"
+Australia,"22,743",375,"13,345"
+"El Salvador","22,619",603,"10,618"
+"Czech Republic","19,693",394,"13,732"
+Cameroon,"17,586",393,"15,996"
+"Ivory Coast","16,889",107,"13,522"
+Palestine,"15,834",106,"9,382"
+"Bosnia and Herzegovina","15,535",469,"9,344"
+Denmark,"15,379",621,"13,216"
+"South Korea","15,039",305,"13,901"
+Bulgaria,"14,243",492,"9,114"
+Madagascar,"13,643",164,"12,011"
+"North Macedonia","12,515",535,"9,030"
+Sudan,"12,162",793,"6,325"
+Senegal,"11,872",68,"7,615"
+Kosovo,"11,130",381,"6,817"
+"Puerto Rico","10,730",317,"1,359"
+Norway,"9,887",261,"8,857"
+"DR Congo","9,605",238,"8,512"
+Malaysia,"9,175",125,"8,831"
+Paraguay,"9,077",108,"5,657"
+Zambia,"8,275",241,"7,004"
+Guinea,"8,018",50,"7,020"
+Gabon,"8,006",51,"5,823"
+Tajikistan,"7,912",63,"6,696"
+Haiti,"7,649",183,"4,982"
+Finland,"7,623",333,"6,980"
+Lebanon,"7,413",89,"2,407"
+Luxembourg,"7,242",122,"6,222"
+Albania,"7,117",219,"3,695"
+Greece,"6,632",223,"3,804"
+Mauritania,"6,598",157,"5,704"
+Libya,"6,302",132,740
+Croatia,"6,050",161,"5,078"
+Maldives,"5,572",22,"3,007"
+Djibouti,"5,358",59,"5,150"
+"Equatorial Guinea","4,821",83,"2,182"
+Zimbabwe,"4,818",104,"1,544"
+Hungary,"4,877",607,"3,606"
+Malawi,"4,912",153,"2,550"
+"Central African Republic","4,645",61,"1,723"
+"Hong Kong","4,361",67,"3,392"
+Nicaragua,"4,115",128,"2,913"
+Montenegro,"3,748",71,"2,558"
+Congo,"3,745",60,"1,625"
+Namibia,"3,726",31,"2,342"
+Eswatini,"3,410",63,"1,720"
+Thailand,"3,376",58,"3,173"
+Somalia,"3,221",93,"1,599"
+Cuba,"3,093",88,"2,472"
+"Cape Verde","2,920",33,"2,148"
+"Sri Lanka","2,881",11,"2,638"
+Suriname,"2,838",41,"1,894"
+Slovakia,"2,615",31,"1,874"
+Mali,"2,577",125,"1,973"
+Mozambique,"2,638",19,"1,015"
+"South Sudan","2,472",47,"1,175"
+Lithuania,"2,352",81,"1,691"
+Slovenia,"2,272",129,"1,960"
+Estonia,"2,177",63,"1,976"
+Rwanda,"2,171",7,"1,478"
+Guinea-Bissau,"2,088",29,"1,015"
+Benin,"2,001",38,"1,681"
+Iceland,"1,968",10,"1,844"
+"Donetsk PR","1,963",113,901
+"Sierra Leone","1,947",69,"1,502"
+Yemen,"1,841",528,937
+Tunisia,"1,738",52,"1,272"
+Angola,"1,735",80,575
+Syria,"1,432",55,395
+Uruguay,"1,421",38,"1,182"
+"The Gambia","1,346",32,227
+Uganda,"1,313",9,"1,138"
+Latvia,"1,293",32,"1,078"
+Jordan,"1,283",11,"1,189"
+Cyprus,"1,277",20,870
+Malta,"1,276",9,762
+Georgia,"1,264",17,"1,054"
+Liberia,"1,252",82,738
+"New Zealand","1,220",22,"1,176"
+"Burkina Faso","1,211",54,990
+Niger,"1,158",69,"1,062"
+Togo,"1,124",26,806
+Bahamas,"1,119",15,138
+"USS Theodore Roosevelt","1,102",1,751
+"Charles de Gaulle","1,081",0,0
+Jamaica,"1,071",14,754
+Andorra,989,53,863
+Aruba,973,4,153
+Chad,951,76,862
+Vietnam,930,22,471
+"São Tomé and Príncipe",885,15,809
+Lesotho,884,25,271
+Somaliland,860,26,266
+"Diamond Princess",712,14,653
+"U.S. Virgin Islands",704,9,476
+"San Marino",699,42,656
+Guyana,649,22,306
+"Luhansk PR",621,15,586
+Guam,502,5,343
+Taiwan,481,7,450
+"Trinidad and Tobago",426,10,139
+Burundi,412,1,315
+Comoros,403,7,379
+Belize,388,2,35
+Myanmar,374,6,322
+"Faroe Islands",360,0,225
+Botswana,360,3,120
+Jersey,347,15,324
+Mauritius,344,10,334
+"Isle of Man",336,24,312
+Mongolia,298,0,272
+Eritrea,285,0,248
+"Turks and Caicos Islands",274,2,55
+Cambodia,273,0,229
+"Papua New Guinea",271,3,78
+"Sint Maarten",269,17,102
+Guernsey,252,13,238
+Artsakh,251,0,231
+Gibraltar,206,0,188
+"Cayman Islands",203,1,202
+"Northern Cyprus",183,4,137
+"French Polynesia",166,0,64
+Bermuda,159,9,145
+Barbados,148,7,119
+"Costa Atlantica",148,0,148
+Monaco,146,4,114
+Abkhazia,143,3,45
+Brunei,142,3,138
+Bhutan,133,0,102
+"Greg Mortimer",128,1,"No data"
+Seychelles,127,0,126
+"Antigua and Barbuda",92,3,76
+Liechtenstein,91,1,87
+"South Ossetia",89,0,89
+"Saint Vincent",57,0,55
+"Northern Mariana Islands",50,2,19
+Macau,46,0,46
+"MS Roald Amundsen",36,0,0
+Curaçao,33,1,31
+Fiji,28,1,20
+"East Timor",25,0,24
+"Saint Lucia",25,0,25
+Grenada,24,0,23
+"New Caledonia",23,0,22
+Laos,22,0,19
+Dominica,18,0,18
+"Saint Kitts and Nevis",17,0,17
+Greenland,14,0,14
+"Falkland Islands",13,0,13
+Montserrat,13,1,12
+"MS Zaandam",13,4,"No data"
+"Coral Princess",12,3,"No data"
+"Vatican City",12,0,12
+"British Virgin Islands",9,1,7
+"HNLMS Dolfijn",8,0,8
+Bonaire,5,0,5
+Saba,5,0,4
+"Saint Pierre and Miquelon",4,0,1
+Anguilla,3,0,3
+"Sint Eustatius",2,0,2
+Tanzania,"No data","No data","No data"
